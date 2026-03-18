@@ -14,10 +14,12 @@ Final Validation Accuracy: ~96.4%
 Epochs: 5
 
 📊 Training Graphs
+## 📊 Training Graphs
+
 <p align="center">
-  <img src="acc_impv.png" width="48%" alt="Model Accuracy"/>
-  &nbsp;
-  <img src="losss_impv.png" width="48%" alt="Model Loss"/>
+  <img src="images/acc_impv.png" width="45%" alt="Model Accuracy"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/losss_impv.png" width="45%" alt="Model Loss"/>
 </p>
 Validation accuracy stayed consistently high (~96%) throughout training while training accuracy steadily caught up — showing good generalization with minimal overfitting.
 
