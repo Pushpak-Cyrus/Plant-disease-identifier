@@ -1,4 +1,6 @@
 🌿 Plant Disease Identifier
+
+
 A deep learning web app that detects plant diseases from leaf images. Upload a photo of a leaf and the model will identify the disease along with a confidence score.
 
 ⚠️ Disclaimer: This is a learning project built to practice deep learning and web development. The model is not 100% accurate and should not be used for professional agricultural decisions.
