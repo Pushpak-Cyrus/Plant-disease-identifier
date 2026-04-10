@@ -227,5 +227,5 @@ This project was built for learning and demonstration purposes. The predictions 
 
 ## License
 
-Copyright (c) 2025 Pushpak-Cyrus.
-All rights reserved.
+This project is licensed under the MIT License.
+Copyright (c) 2025 Pushpak-Cyrus
